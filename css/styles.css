@@ -28,3 +28,15 @@ h1 {
 .red {
     color: red;
 }
+
+.letter-spacing {
+    letter-spacing: .2em;
+}
+
+.word-spacing {
+    word-spacing: 1.5em;
+}
+
+.line-spacing {
+    line-height: 1.5em;
+}
