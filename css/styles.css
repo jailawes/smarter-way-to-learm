@@ -24,3 +24,7 @@ h1 {
 .emphasized {
     font-style: italic;
 }
+
+.red {
+    color: red;
+}
